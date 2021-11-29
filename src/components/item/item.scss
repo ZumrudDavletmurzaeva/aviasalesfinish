@@ -1,0 +1,39 @@
+.ticket{
+  width:502px;
+  height: 180px;
+  border-radius: 5px;
+  background-color: white;
+  display:flex;
+  flex-direction:column;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-top: 20px;
+ 
+}
+
+
+.ticket_price{
+color:#2196F3;
+font-weight: 600;
+font-size: 24px;
+}
+
+
+.ticket-logo img  {
+  height: 40px;
+  box-sizing: border-box;
+}
+
+
+.header-ticket{
+  display: flex;
+  flex-direction:row;
+
+
+}
+
+
+.header-ticket{
+  width: 462px;
+  justify-content: space-between;
+}

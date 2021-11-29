@@ -1,0 +1,51 @@
+  
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap');
+
+body {
+  position: relative;
+  background-color: #f3f7fa;
+}
+ul {
+  list-style: none;
+}
+
+
+
+.app {
+  min-height: 100vh;
+  height: 100%;
+  padding-bottom: 20px;
+  font-family: 'Open Sans', sans-serif;
+  color: #4a4a4a;
+}
+
+
+.content {
+  display: flex;
+  margin: 0 auto;
+  max-width: 900px;
+  margin-top: -110px;
+}
+
+.ticket-list{
+  display: flex;
+  flex-direction: column;
+ padding: 0;
+
+}
+img{
+  height: 80px;
+  cursor: pointer;
+}
+
+.header{
+display: flex;
+justify-content: center;
+box-sizing: border-box;
+margin-top:50px;
+
+
+
+
+
+}

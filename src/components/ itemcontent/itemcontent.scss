@@ -1,0 +1,26 @@
+.ticket__flight{
+  display:flex;
+  flex-direction:row;
+  
+}
+
+.ticket__flight{
+  justify-content: space-between;
+  width:462px;
+  height: 39px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.font--grey-title{
+  font-size:12px;
+margin-bottom: -8px;
+  font-weight:600;
+  letter-spacing:0.5px;
+  color:#A0B0B9
+}
+
+
+p{
+  color:black;
+  font-size:14px;
+}
